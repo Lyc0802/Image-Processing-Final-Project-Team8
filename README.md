@@ -83,8 +83,11 @@ loss_noise_map = 55 * (torch.mean(L_noise_map(img_lowlight, enhanced_image)))
 ![Description](imgs/result2-3.png)
 
 * **Image Comparison**
+
 ![Description](imgs/result0-4.png)
+
 ![Description](imgs/result1-4.png)
+
 ![Description](imgs/result2-4.png)
 
 
